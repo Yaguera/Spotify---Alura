@@ -1,8 +1,6 @@
 .main-container{
-    max-width: 70vw;
-    height: 100vh;
-    margin-left: 320px;
-    margin-right: 10px;
+    max-width: 100%;
+    margin-left: 30.5vw;
 }
 
 .header__navigation{
@@ -10,9 +8,9 @@
     justify-content: space-between;
     align-items: center;
     padding: 12px;
-    margin: 10px;
+    margin: 8px;
     border-radius: 8px;
-    background-color: #121212;
+    background-color: #101010;
 }
 
 .header__navigation .navigation{
