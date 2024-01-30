@@ -131,6 +131,7 @@ table {
 }
 
 button {
+  font-family: var(--font-dm-sans);
   border: none;
   cursor: pointer;
 }
